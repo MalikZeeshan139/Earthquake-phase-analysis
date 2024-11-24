@@ -26,8 +26,8 @@ This project uses MATLAB to analyze seismic data during earthquake phases: befor
 - High-pass filtering highlighted persistent effects.
 
 ## Project Files
-- **Code:** MATLAB scripts in the `src/` directory.
-- **Plot:** Visualizations in the `plot/` directory.
+- **Code:** MATLAB scripts in the `Earthquake/Combine.m` directory.
+- **Plot:** Visualizations in the `Earthquake/plot.png/` directory.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
