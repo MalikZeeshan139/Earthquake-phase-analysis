@@ -14,15 +14,15 @@ This project uses MATLAB to analyze seismic data during earthquake phases: befor
 
 ## Results
 ### 1. Before Shocks
-![Before Shocks](earthquake/before.png)
+![Before Shocks](Earthquake/before.png)
 - Low-pass filtering revealed potential precursor events.
 
 ### 2. During Shocks
-![During Shocks](earthquake/during.png)
+![During Shocks](Earthquake/during.png)
 - Band-pass filtering isolated dominant seismic frequencies.
 
 ### 3. After Shocks
-![After Shocks](earthquake/after.png)
+![After Shocks](Earthquake/after.png)
 - High-pass filtering highlighted persistent effects.
 
 ## Project Files
