@@ -27,8 +27,7 @@ This project uses MATLAB to analyze seismic data during earthquake phases: befor
 
 ## Project Files
 - **Code:** MATLAB scripts in the `src/` directory.
-- **Graphs:** Visualizations in the `graphs/` directory.
-- **Data:** Processed seismic datasets in the `data/` directory.
+- **Plot:** Visualizations in the `plot/` directory.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
